@@ -1,6 +1,6 @@
 module github.com/go-sicp/sicpctl
 
-go 1.22
+go 1.27.1
 
 require (
 	github.com/go-sicp/sicp v0.1.0
