@@ -3,7 +3,7 @@ module github.com/go-sicp/sicpctl
 go 1.27.1
 
 require (
-	github.com/go-sicp/sicp v0.1.0
+	github.com/go-sicp/sicp v0.2.0
 	github.com/spf13/cobra v1.10.2
 )
 
